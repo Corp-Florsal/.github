@@ -1,55 +1,34 @@
 # About 
-  ![Descripción de la Imagen](https://github.com/Jorgejfp/Jorgejfp/blob/main/jjfp_logo.png?raw=true) 
-  
-## 🌟 Executive Profile | Software Developer and Data Analyst
-  
-Hello! I'm Jorge Flores Pérez, a beginner in the fields of **software development** and **data analysis**, but I bring with me over 20 years of experience in understanding and working with business data through my extensive background in accounting, financial management, and strategic business planning. I've also supported the migration of banking and administrative systems, including SAP B1. 
+![Descripción de la Imagen](https://github.com/Jorgejfp/Jorgejfp/blob/main/jjfp_logo.png?raw=true) 
 
-I'm excited to leverage my deep knowledge of business processes as I embark on this new journey into technology.
+## 🌟 Corp-FlorSal | Holding de Administración y Desarrollo
 
-## 💻 Technical Skills
+Bienvenidos a **Corp-FlorSal**, una organización dedicada a la **gestión empresarial**, la **innovación tecnológica** y el **desarrollo de software**.  
+Nuestra misión es combinar más de 20 años de experiencia en **contabilidad, finanzas y administración corporativa** con soluciones tecnológicas modernas que impulsan la eficiencia y la transformación digital.
 
-- **Microsoft Office Suite**: ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=Microsoft-Word&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=Microsoft-PowerPoint&logoColor=white)
+## 💻 Líneas de Desarrollo
 
-- **Programming Languages**:
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+- **Aplicaciones móviles**: Android (Java/Kotlin), Gradle, CI/CD.  
+- **Backend y APIs**: Arquitectura REST, integración de sistemas empresariales.  
+- **Data & Analytics**: Power BI, Python, análisis financiero y modelos de decisión.  
+- **ERP y migración de sistemas**: Experiencia en SAP B1 y entornos bancarios/administrativos.  
+- **Gestión empresarial**: Estrategia, planeación financiera y soporte a grandes corporativos.  
 
-- **Development Tools**:
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white) 
-  ![AJAX](https://img.shields.io/badge/-AJAX-007AFF?style=flat&logo=AJAX&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-  ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=Trello&logoColor=white)
-  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=Scrum&logoColor=white) 
-  ![User Stories](https://img.shields.io/badge/-User%20Stories-5E5CFF?style=flat&logo=Jira&logoColor=white)
+## 📂 Repositorios Destacados
 
-- **Databases**:
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- [`msd-android`](https://github.com/Corp-Florsal/MSD_MA) — Proyecto Android principal (Multiservice Diamond).  
+- `msd-backend` — API y servicios backend (en planeación).  
+- `msd-infra` — Automatización, CI/CD y gestión de infraestructura.  
+- `msd-docs` — Documentación, procesos y estándares.  
 
-- **Data Analysis**: 
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black) 
-  ![SPSS Amos](https://img.shields.io/badge/-SPSS%20Amos-3C5A99?style=flat&logo=IBM&logoColor=white)
-  ![Business Analysis](https://img.shields.io/badge/-Business%20Analysis-FFA500?style=flat&logo=Google-Analytics&logoColor=white)
+## 🧑‍💼 Experiencia de Base
 
-- **Enterprise Systems**:
-  ![SAP B1](https://img.shields.io/badge/-SAP%20B1-0FAAFF?style=flat&logo=SAP&logoColor=white)
+Nuestro equipo combina:  
+- **Dirección estratégica** en administración y riesgos.  
+- **Desarrollo de software** (móvil, web y datos).  
+- **Optimización de procesos corporativos**.  
 
-- **Other Skills**:
-  ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-
-## 🧑‍💼 Professional Experience
-
-- **Ph.D. in Strategic Business Management** with a specialization in Financial Management and Risk Management.
-- **Certified Public Accountant** with extensive experience in corporate and banking accounting.
-- Led financial planning and control for large corporations, focusing on process optimization and data-driven decision-making.
-
-### 🌐 Connect with Me
+## 🌐 Conéctate con nosotros
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jjfp" target="_blank">
@@ -59,13 +38,3 @@ I'm excited to leverage my deep knowledge of business processes as I embark on t
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo"/>
   </a>
 </div>
-
-## My Github stats
-<center>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgejfp)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgejfp)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgejfp)
-
-</center>
