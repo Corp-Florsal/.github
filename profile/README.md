@@ -1,7 +1,7 @@
 # About 
 ![Descripción de la Imagen](https://github.com/Jorgejfp/Jorgejfp/blob/main/jjfp_logo.png?raw=true) 
 
-## 🌟 Corp-FlorSal | Holding de Administración y Desarrollo
+## 🌟 Corp. FlorSal | Holding de Administración y Desarrollo
 
 Bienvenidos a **Corp. FlorSal**, una organización dedicada a la **gestión empresarial**, la **innovación tecnológica** y el **desarrollo de software**.  
 Nuestra misión es combinar más de 20 años de experiencia en **contabilidad, finanzas y administración corporativa** con soluciones tecnológicas modernas que impulsan la eficiencia y la transformación digital.
