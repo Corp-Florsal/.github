@@ -1,0 +1,49 @@
+name: Feature request
+description: Propose an improvement or new capability
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: sector
+    attributes:
+      label: Business sector
+      options:
+        - FlorSal Academy
+        - FlorSal Tech
+        - FlorSal Consulting
+        - FlorSal Transport
+        - FlorSal Leather
+        - FlorSal Naturals
+        - Organization governance
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: Business need
+      description: Explain the problem or opportunity before proposing the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Expected benefit
+      description: Include users affected, time saved, risk reduced or learning value.
+  - type: textarea
+    id: cost
+    attributes:
+      label: Cost and dependencies
+      description: Identify any paid service, recurring cost or new infrastructure.
+  - type: checkboxes
+    id: alternatives
+    attributes:
+      label: Alternatives
+      options:
+        - label: I considered a free or open-source alternative.
+          required: true
