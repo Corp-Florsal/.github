@@ -2,115 +2,83 @@
 
 # FlorSal Group
 
-### Building knowledge, technology and sustainable business solutions
+### Learn. Grow. Transform.
 
 ![Organization](https://img.shields.io/badge/organization-Corp--Florsal-0B2A4A?style=for-the-badge)
-![Focus](https://img.shields.io/badge/focus-trading%20%7C%20education%20%7C%20technology%20%7C%20consulting-365F91?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-growing-2EA44F?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/architecture-enterprise%20governed-365F91?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-foundation%20active-2EA44F?style=for-the-badge)
 
 </div>
 
 ---
 
-## About FlorSal Group
+## About
 
-**FlorSal Group** is a developing business ecosystem that combines trading operations, education, technology, consulting and specialized business initiatives under a shared corporate identity.
+FlorSal Group is a developing business ecosystem that combines education, professional trading operations, technology products, and client solutions under shared governance, architecture, and identity standards.
 
-Our purpose is to transform knowledge and operational experience into disciplined business processes, structured learning programs, digital products and practical solutions.
+## Core divisions
 
-## Business divisions
-
-| Division | Purpose | Current focus |
+| Division | Mandate | Current focus |
 |---|---|---|
-| **FlorSal Trading** | Real market operations and financial performance management | Futures, budget, P&L, risk, funded accounts, journal and analytics |
-| **FlorSal Academy** | Professional education and continuous learning | Trading as the first program, followed by finance, accounting, analytics, technology and research |
-| **FlorSal Tech** | Software products and client technology solutions | Financial Control, ERP, workflows, mobile apps and business systems |
-| **FlorSal Consulting** | Accounting, finance, strategy and business advisory | Process improvement, reporting, controls and decision support |
-| **FlorSal Transport** | Transportation and logistics initiatives | Fleet, delivery and operational control |
-| **FlorSal Leather** | Leather products and commercial development | Product design, manufacturing and sales |
-| **FlorSal Naturals** | Natural and export-oriented products | Coffee, food and sustainable product initiatives |
+| **FlorSal Academy** | Professional education and capability development | Trading as the first structured learning program |
+| **FlorSal Trading** | Real futures-trading operations and financial performance control | Risk, budget, P&L, funded accounts, journal, playbooks and analytics |
+| **FlorSal Tech** | Reusable software products, integrations and client technology solutions | ERP, Financial Control, FlorFlow, OS and mobile solutions |
 
-## Repository architecture
+## Corporate architecture
 
 ```text
 Corp-Florsal/
-├── .github                     # Organization profile, governance and templates
-├── florsal-brand               # Official logos and brand standards
-├── florsal-trading             # Real trading operations and financial control
-├── florsal-academy             # Educational platform and learning programs
-├── florsal-tech                # Technology-division portal and standards
-├── florsal-financial-control   # Reusable financial-control product
-├── florflow                    # Workflow and invoice-management product
+├── .github                     # Public organization profile and common policies
+├── florsal-enterprise          # Enterprise architecture and standards
+├── florsal-pmo                 # Portfolio, roadmap, backlog, risks and delivery governance
+├── florsal-brand               # Official identity and brand assets
+├── florsal-academy             # Education division and learning programs
+├── florsal-trading             # Operational trading division
+├── florsal-tech                # Technology division and shared capabilities
 ├── florsal-erp                 # ERP product
-├── florsal-os                  # Internal architecture and operating platform
-├── florsal-consulting          # Consulting methods, tools and services
-├── florsal-transport           # Transport and logistics initiatives
-├── florsal-leather             # Leather business initiatives
-└── florsal-naturals            # Natural-product initiatives
+├── florsal-financial-control   # Financial-control product
+├── florsal-os                  # Operating framework and platform
+├── florflow                    # Workflow-automation product
+├── florsal-digital-ecosystem   # Corporate digital ecosystem
+└── client-msd-mobile           # Client-specific mobile solution
 ```
 
-Repositories are created or transferred only when their purpose, ownership and long-term role are confirmed.
+## Source-of-truth model
 
-## Relationship between Trading, Academy and Tech
+- **Architecture and standards:** `florsal-enterprise`
+- **Portfolio and execution governance:** `florsal-pmo`
+- **Brand assets:** `florsal-brand`
+- **Public organization information:** `.github`
+- **Implementation details:** each division, product, or client repository
 
-### FlorSal Trading
+## Operating principles
 
-- Executes real trading operations.
-- Controls capital, budget, gains and losses.
-- Manages risk, funded accounts, playbooks and performance.
-- Generates documented operating experience.
+1. Architecture before implementation.
+2. Risk management before growth.
+3. Reuse before duplication.
+4. Evidence before assumptions.
+5. Free and open-source solutions are evaluated first.
+6. Secrets, credentials, personal data, and confidential client information never belong in source control.
+7. Every initiative requires an owner, purpose, lifecycle state, priority, and success criterion.
+8. Client-specific code remains separate from reusable FlorSal products.
 
-### FlorSal Academy
+## Governance
 
-- Converts validated knowledge into structured learning programs.
-- Trading is its first educational program.
-- Manages classes, assessments, progress and future certifications.
+New repositories and structural changes must be registered in `florsal-pmo` and reviewed against `florsal-enterprise`. Material business changes require CEO and Product Owner approval.
 
-### FlorSal Tech
+## Current priorities
 
-- Develops and maintains the software used across the group.
-- Owns reusable products such as Financial Control, FlorFlow, ERP and shared services.
-
-## Governance principles
-
-1. Corporate projects belong to `Corp-Florsal`; personal learning and professional-experience repositories remain under the appropriate personal account.
-2. Each repository must have a defined business owner, purpose and lifecycle status.
-3. Client code must be separated from reusable FlorSal products.
-4. Secrets, credentials and private business data must never be committed.
-5. Development must prioritize maintainability, documentation, security and traceability.
-6. Paid subscriptions require a documented need and approval; free and open-source tools are preferred.
-
-## Naming convention
-
-Corporate repositories use lowercase kebab-case:
-
-```text
-florsal-trading
-florsal-academy
-florsal-tech
-florsal-financial-control
-client-msd-mobile
-```
-
-Personal learning repositories should use prefixes such as:
-
-```text
-course-
-practice-
-project-
-demo-
-```
-
-## Collaboration
-
-Organization-wide contribution, security, architecture and repository standards are maintained in this `.github` repository.
+1. Complete the Enterprise Foundation.
+2. Standardize corporate READMEs and brand references.
+3. Build the FlorSal Academy Trading program.
+4. Establish the FlorSal Trading operating system for risk, journal, budget, and P&L.
+5. Prioritize the lowest-cost sustainable technology product roadmap.
 
 <div align="center">
 
 ---
 
-### Learn. Grow. Transform.
-
-**FlorSal Group**
+**FlorSal Group**  
+Knowledge, discipline, technology, and sustainable growth.
 
 </div>
