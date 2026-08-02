@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Corp-Florsal/.github/main/assets/brand/logo-primary-all-group.png" alt="FlorSal Group ecosystem" width="900">
+<img src="../../assets/brand/logo-primary-all-group.png"
+     alt="FlorSal Group ecosystem"
+     width="900">
 
 # FlorSal Group
 
